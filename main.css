@@ -29,6 +29,7 @@ header {
    justify-content: space-between;
    align-items: center;
 }
+
 header nav ul {
    display: flex;
    justify-content: space-around;
@@ -238,8 +239,6 @@ section.play-modes h2 {
 section.play-modes img {
    
 }
-
-
 
 /* Footer
 ------------------------------------------ */
